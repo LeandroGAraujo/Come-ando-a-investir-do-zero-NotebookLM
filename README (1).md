@@ -139,11 +139,6 @@ O planejamento financeiro não é estático; ele exige ajustes periódicos.
 
 </details>
 
-- **Prompt 4 →** *(resposta)*
-- **Prompt 5 →** *(resposta)*
-- **Prompt 6 →** *(resposta)*
-- **Prompt 7 →** *(resposta)*
-- **Prompt 8 →** *(resposta)*
 
 ### 3.3 Dificuldades e troubleshooting
 
