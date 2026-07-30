@@ -3,7 +3,7 @@
 
 🔗 [Acessar notebookLM](https://notebooklm.google.com/notebook/4923931f-8825-4b86-9296-e7421b97edfb)
 
-> **Nota:** o link pode exigir login com conta Google para visualização, caso o notebook não esteja configurado como público.
+> **Nota:** Acesse e tire suas duvidas sobre como começar a investir do zero.
 
 ## 1. Contexto e Objetivos
 
