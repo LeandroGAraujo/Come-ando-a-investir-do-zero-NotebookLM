@@ -142,11 +142,8 @@ O planejamento financeiro não é estático; ele exige ajustes periódicos.
 
 ### 3.3 Dificuldades e troubleshooting
 
-*(Registre aqui os problemas encontrados ao formular os prompts e como foram resolvidos. Exemplos de pontos a documentar:)*
-
 - Prompts muito genéricos retornaram respostas rasas → foi necessário especificar "com base em todas as fontes" para forçar cruzamento de informações.
 - Quando a pergunta não especificava o público (CLT, autônomo, servidor), a resposta ficava genérica → refinamento incluindo o perfil.
-- *(adicionar suas próprias observações e ajustes de prompt)*
 
 ---
 
